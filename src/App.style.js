@@ -40,4 +40,5 @@ const AppsStyle = styled("div")`
     }
   }
 `;
+
 export default AppsStyle;
